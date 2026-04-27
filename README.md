@@ -51,14 +51,12 @@ By identifying high-risk customers, companies can improve retention strategies a
 ## 🤖 Models Used
 - Logistic Regression  
 - Decision Tree  
-- Random Forest  
-- XGBoost (if applicable)
+- Random Forest
 
 ---
 
 ## 📈 Results
 - **Best Model**: Random Forest *(or update based on your result)*  
-- **Accuracy**: XX% *(replace with your value)*  
 
 ---
 
